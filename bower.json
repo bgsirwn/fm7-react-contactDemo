@@ -1,0 +1,23 @@
+{
+  "name": "contact",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Dealize/fm7-react-contactDemo",
+  "authors": [
+    "dongtao <351273576@qq.com>"
+  ],
+  "description": "contact by react framework7",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "es6"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
